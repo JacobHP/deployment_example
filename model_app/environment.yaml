@@ -1,0 +1,12 @@
+name: deployment2_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - flask
+  - waitress
+  - matplotlib
+  - pandas
+  - requests
+  - scikit-learn
+prefix: C:\Users\JacobHoward-Parker\anaconda3\envs\deployment2_env
