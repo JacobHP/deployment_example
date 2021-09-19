@@ -1,2 +1,5 @@
 # deployment_example
-flask app and dockerfile
+Flask app and dockerfile
+
+App returns user graph of predicted probabilities on Iris dataset.
+
